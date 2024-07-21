@@ -1,11 +1,13 @@
 
 import './App.css';
-import Table from './TableComponent';
+import MyDocView from './DocViewer';
+
+
 
 function App() {
   return (
     <div className="App">
-      <Table />
+      <MyDocView />
     </div>
   );
 }
