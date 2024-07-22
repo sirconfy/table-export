@@ -1,8 +1,6 @@
 
-import './App.css';
-import MyDocView from './DocViewer';
-
-
+import "./App.css";
+import MyDocView from "./DocViewer";
 
 function App() {
   return (
